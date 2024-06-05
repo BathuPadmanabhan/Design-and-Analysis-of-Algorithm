@@ -10,4 +10,4 @@ Assignment -1
 8. Write a program   to generate all the prime numbers using recursion
 9. Write a program to check a number is a prime number or not using recursion.
 10.Write a program for to check whether a given String is Palindrome or  not using recursion
-Assignment - 2
+    Assignment - 2
