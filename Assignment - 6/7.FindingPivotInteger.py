@@ -12,7 +12,6 @@ def find_pivot_integer(n):
     return -1
 
 
-# Test the function with examples
-print(find_pivot_integer(8))  # Output: 6
-print(find_pivot_integer(1))  # Output: 1
-print(find_pivot_integer(4))  # Output: -1
+print(find_pivot_integer(8))  
+print(find_pivot_integer(1))  
+print(find_pivot_integer(4)) 
